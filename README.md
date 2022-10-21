@@ -5,4 +5,3 @@
 turma: 1C
 
 📚 ESTUDANTE DO ENSINO MÉDIO
-
